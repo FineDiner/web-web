@@ -1,7 +1,7 @@
 name: "johnrieth-site"
 title: "John Rieth"
 description: |
-  John Rieth
+  Blog by John Rieth about California and the great unknown
 output_dir: "_site"
 navbar:
   right:
